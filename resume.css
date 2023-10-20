@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm&family=Mitr:wght@300&family=Playpen+Sans&display=swap');body{
+    text-align: center;
+    font-family: 'Playpen Sans', cursive;
+    background-color: rgb(60, 37, 61);
+    color: #ffffff;
+    padding: auto;
+    margin: auto;
+}
+.pa{
+    font-family: 'Mitr', sans-serif;
+
+}
+a{
+    font-family: 'Charm', cursive;
+    font-size:  1000%;
+    color: #e5ffa8;
+}
+img{
+    border-radius: 10px 10px 10px 10px;
+    width: 500px;
+}
